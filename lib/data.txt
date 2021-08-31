@@ -1,0 +1,3 @@
+	API KEY : 6bp5KTueVJmvOe9Fnd1eXSkhrPB0ttOq
+
+    https://developer.accuweather.com/
